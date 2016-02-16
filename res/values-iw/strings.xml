@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אירוע</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="Done">בוצע</string>
+
+    <string name="attending">מגיע</string>
+    <string name="not_attending">לא מגיע</string>
+    <string name="maybe_attending">אולי מגיע</string>
+    <string name="title_activity_login">התחברות</string>
+
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_tabbed_details">TabbedDetailsActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="autocomplete_hint">Enter place name or address</string>
+    <string name="action_save">save</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">דוא"ל</string>
+    <string name="prompt_password">ססמא</string>
+    <string name="action_login">התחבר</string>
+    <string name="action_sign_in_short">התחבר</string>
+    <string name="error_invalid_email">הדוא"ל לא תקין</string>
+    <string name="error_invalid_password">ססמא קצרה מדי</string>
+    <string name="error_incorrect_password">ססמא לא תקינה</string>
+    <string name="error_field_required">שדה זה הוא חובה</string>
+    <string name="action_sign_up">הרשם</string>
+    <string name="title_activity_main_drawer">MainDrawerActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="New">New</string>
+    <string name="Events">Events</string>
+    <string name="settings">הגדרות</string>
+    <string name="EventName">שם האירוע:</string>
+    <string name="EventDescription">תיאור האירוע:</string>
+    <string name="EventDate">תאריך האירוע</string>
+    <string name="EventHour">שעת האירוע</string>
+    <string name="default_message">הנכם מוזמנים לאירוע של "שם האירוע" אשרו את הגעתכם בבקשה בקישור הבא,נשמח לראותכם.❤</string>
+</resources>
